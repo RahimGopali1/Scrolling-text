@@ -15,6 +15,4 @@ Coding challenge
 <br>
 <img src="Coding_chellenge.png" height="450" width="200"/>
 <br>
-Homework
-<br>
-<img src="Code_challenge.png" height="450" width="200"/>
+
