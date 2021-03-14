@@ -13,7 +13,7 @@ Task 3
 <br>
 Coding challenge
 <br>
-<img src="Code_chellenge.png" height="450" width="200"/>
+<img src="Coding_chellenge.png" height="450" width="200"/>
 <br>
 Homework
 <br>
