@@ -2,4 +2,4 @@
 
 Homework
 <br>
-<img src="Code_challenge.png" height="450" width="200"/>
+<img src="Homework.png" height="450" width="200"/>
